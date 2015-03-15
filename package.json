@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "gitbook": ">=0.4.6"
+  },
   "author": "Parallel Drive",
   "license": "MIT"
 }
