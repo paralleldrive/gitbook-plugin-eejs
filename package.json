@@ -7,6 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Parallel Drive",
-  "license": "All rights reserved.",
-  "private": "true"
+  "license": "MIT"
 }
