@@ -1,11 +1,11 @@
 module.exports = {
   website: {
-    assets: "./theme",
+    assets: "./assets",
     js: [
-      "js/eejs.js"
+      "eejs.js"
     ],
     css: [
-      "css/eejs.css"
+      "eejs.css"
     ]
   }
 };
