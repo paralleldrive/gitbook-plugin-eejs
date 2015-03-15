@@ -1,0 +1,9 @@
+body .book .book-header .home-bookmark,
+body .book .book-header .toggle-font-settings {
+  display:none;
+}
+
+body .book .book-header .pull-right,
+body .book .book-header .count-watch {
+  display:none!important;
+}

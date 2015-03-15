@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-plugin-eejs",
+  "version": "0.1.0",
+  "description": "eejs GitBook plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parallel Drive",
+  "license": "All rights reserved.",
+  "private": "true"
+}
