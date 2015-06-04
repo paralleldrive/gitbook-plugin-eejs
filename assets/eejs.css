@@ -23,6 +23,8 @@ body .book .book-header .count-watch {
   height: 100%;
 }
 
+
+/* Blue header and border for exercises */
 .book .book-body .page-wrapper .page-inner .exercise {
   border-color: #4556A6;
 }
