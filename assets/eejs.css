@@ -22,3 +22,11 @@ body .book .book-header .count-watch {
   width: 100%;
   height: 100%;
 }
+
+.book .book-body .page-wrapper .page-inner .exercise {
+  border-color: #4556A6;
+}
+
+.page-inner .exercise .header {
+  background: #4556A6;
+}
