@@ -8,6 +8,17 @@ body .book .book-header .count-watch {
   display:none!important;
 }
 
+/* Eric Elliott Blue */
+header {
+  background-color: #4559A3; 
+}
+
+/* SVG logo styling */
+.logo-svg {
+  width: 200px;
+  float: left;
+}
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
