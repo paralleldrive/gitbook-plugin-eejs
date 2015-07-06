@@ -8,6 +8,16 @@ body .book .book-header .count-watch {
   display:none!important;
 }
 
+header {
+  padding: 1.2em 10px;
+}
+
+/* SVG logo styling */
+.logo-svg {
+  width: 200px;
+  float: left;
+}
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
